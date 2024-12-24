@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Hieu 👋 </h1>
-<h6 align="center">You also can call me Alex (Alex Pham)</h1>
+<h1 align="center">Hi, I'm Alex 👋 </h1>
 <h3 align="center">A software engineer who pursues building useful software systems</h3>
 
 ![](https://komarev.com/ghpvc/?username=AlexPham-HIVO)
